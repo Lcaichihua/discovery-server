@@ -1,4 +1,5 @@
 application:
   name: discovery-server
+  title: Discovery Server
   version: 0.0.1-SNAPSHOT
-  author: Caichihua 
+  author: Caichihua
